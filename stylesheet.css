@@ -251,6 +251,3 @@ label:hover:before {
       color:rgb(141, 138, 138);
          
    }
-input:invalid{
-    border-bottom: 1px solid red;
-}
